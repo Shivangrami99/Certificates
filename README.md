@@ -2,7 +2,8 @@
 A collection of certifications and course completion certificates in programming and technology.
 
 <h2>Snowfalke certificate</h2>
-![snowflake certification](https://github.com/user-attachments/assets/089df83c-4b00-46c8-bdb9-9cfcbd7b246b)
+<img width="1600" height="1190" alt="snowflake certification" src="https://github.com/user-attachments/assets/74b88c95-13ff-4fdf-aafe-9a878bc3bf00" />
+
 
 
 <h2>Python certificate</h2>
